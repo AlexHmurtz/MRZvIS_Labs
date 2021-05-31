@@ -1,0 +1,10 @@
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\bin\Debug\mrzvis_2.exe.config
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\bin\Debug\mrzvis_2.exe
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\bin\Debug\mrzvis_2.pdb
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.csprojAssemblyReference.cache
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.MRZvIS_2.resources
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.Properties.Resources.resources
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.csproj.GenerateResource.cache
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.csproj.CoreCompileInputs.cache
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.exe
+D:\studying\MRZvIS\L2\mrzvis_2\mrzvis_2\obj\Debug\mrzvis_2.pdb
